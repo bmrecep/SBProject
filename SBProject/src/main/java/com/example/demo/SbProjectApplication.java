@@ -8,6 +8,7 @@ public class SbProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbProjectApplication.class, args);
+		//dsafs
 	}
 
 }
